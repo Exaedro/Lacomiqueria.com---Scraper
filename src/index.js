@@ -159,7 +159,7 @@ const mangas = [
     },
     {
         name: 'Quintillizas - 14',
-        url: 'https://www.lacomiqueria.com.ar/productos/somos-quintillizas-go-toubun-no-hanayome-03/',
+        url: 'https://www.lacomiqueria.com.ar/productos/somos-quintillizas-go-toubun-no-hanayome-14/',
         checkStock: async ({ browser, url }) => {
             const page = await browser.newPage();
             await page.goto(url);
