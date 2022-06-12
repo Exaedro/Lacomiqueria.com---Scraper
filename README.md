@@ -1,5 +1,4 @@
 # Lacomiqueria.com - Scraper
 
-## Why?
-I want gotoubun no hanayome mangas now.
-
+## ¿Porque?
+Quiero los mangas de goutobun no hanayome ahora.
